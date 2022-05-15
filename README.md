@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosmalak&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosmalak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniosmalak" alt="antoniosmalak" /></a> </p>
-
 - 🔭 I’m currently a computer science student at **Mansoura University**
 
 - 🌱 I’m currently learning **Advanced ML and DL**
