@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
-- 📫 How to reach me **antoniosmalak14@gmail.com**
-
 - 📄 Know about my experiences in this [resume](https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
