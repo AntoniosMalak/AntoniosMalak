@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
-- 📫 How to reach me **antoniosmalak14@gmail.com**
+- 📫 How to reach me [email](antoniosmalak14@gmail.com)
 
 - 📄 Know about my experiences in this [resume](https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing)
 
