@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Advanced ML and DL**
 
-- 📝 I regularly write articles on [https://medium.com/@antoniosmalak14](https://medium.com/@antoniosmalak14)
+- 📝 I regularly write articles on [medium](https://medium.com/@antoniosmalak14)
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
 - 📫 How to reach me **antoniosmalak14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing](https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing)
+- 📄 Know about my experiences in this [resume](https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
