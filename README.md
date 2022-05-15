@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science and Machine Learning Engineer</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Macondo&size=32&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Macondo&size=64&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosmalak&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosmalak" /> </p>
 
