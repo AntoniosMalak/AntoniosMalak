@@ -1,4 +1,4 @@
-<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=maconda&size=32&lines=Hi%2C+%F0%9F%91%8B+I+am+Antonios+Malak+(tony);A+Data+Science+and+Machine+Learning+Engineer)](https://git.io/typing-svg)</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=maconda&size=32&lines=Hi%2C+%F0%9F%91%8B+I+am+Antonios+Malak+(tony);A+Data+Science+and+Machine+Learning+Engineer)](https://git.io/typing-svg)
 <h3 align="center">A Data Science and Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosmalak&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosmalak" /> </p>
