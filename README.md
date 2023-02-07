@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
-- 📄 Know about my experiences in this [resume](https://drive.google.com/file/d/1KvjluMXuCpTZ_KMWVzUUlhRBIusB5XyT/view?usp=sharing)
+- 📄 Know about my experiences in this [resume](https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
