@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosmalak&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosmalak" /> </p>
 
-- 🔭 I’m currently a computer science student at **Mansoura University**
+- 🔭 I’m currently a Software Developer at Advanced Computer Technology - ACT and Machine Learning Engineer at Electronics Research Institute.
 
-- 🌱 I’m currently learning **Advanced ML and DL**
+- 🌱 I’m currently learning **.Net and Advanced ML and DL**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@antoniosmalak14)
-
-- 💬 Ask me about **Data Science & Machine Learning**
 
 - 📄 Know about my experiences in this [resume](https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE)
 
