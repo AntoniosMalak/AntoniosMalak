@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@antoniosmalak14)
 
-- 📄 Know about my experiences in this [resume]([https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE]
+- 📄 Know about my experiences in this [resume]([[https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE](https://drive.google.com/file/d/17f3TWoclqOCct0AtcpuN2gIYA0oyjyJV/view?usp=sharing)]
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
