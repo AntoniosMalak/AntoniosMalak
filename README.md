@@ -10,8 +10,8 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@antoniosmalak14)
 
-- 📄 Know about my experiences in this [resume](https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE)
-
+- 📄 Know about my experiences in this [resume]([https://drive.google.com/drive/u/1/folders/1tW6BscNHkF48xXnW3HwLHeEmvVMTLapE]
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antoniosmalak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniosmalak" height="30" width="40" /></a>
