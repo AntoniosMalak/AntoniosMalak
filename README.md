@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Macondo&size=64&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Antonios Malak (tony)</h1>
-<h3 align="center">A Software Developer && Machine Learning Engineer</h3>
+<h3 align="center">A Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosmalak&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosmalak" /> </p>
 
-- 🔭 I’m currently a Software Developer at Advanced Computer Technology - ACT and Machine Learning Engineer at Electronics Research Institute.
+- 🔭 I’m currently a Machine Learning Engineer at Electronics Research Institute and SmartServe.
 
-- 🌱 I’m currently learning **.Net and Advanced ML and DL**
+- 🌱 I’m currently learning **Advanced ML and DL**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@antoniosmalak14)
 
